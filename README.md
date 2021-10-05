@@ -1,4 +1,4 @@
-# HTML-Tutorial-How-to-Make-a-Super-Simple-Website
+# HTML Tutorial How to Make a Super Simple Website
 
 Learn How To Make A Complete Website Using HTML and CSS, Complete HTML and CSS Multiple Pages Website Design Tutorial Step by Step
 
