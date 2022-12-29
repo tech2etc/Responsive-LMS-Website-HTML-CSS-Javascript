@@ -1,35 +1,34 @@
-# HTML Tutorial How to Make a Super Simple Website
+# How-to-Make-a-Responsive-LMS/Edu-Website-HTML-CSS-Javascript
 
-Learn How To Make A Complete Website Using HTML and CSS, Complete HTML and CSS Multiple Pages Website Design Tutorial Step by Step
+Learn How To Make A Complete LMS Website Using HTML, CSS and JavaScript. If you are a beginner and want to make a responsive Complete HTML and CSS Multiple Pages Website Design Step by Step.
 
 [![how to make responsive website using html](https://user-images.githubusercontent.com/80243988/135752832-3b071e5c-e301-422e-8a2d-3bdf7b4d26a1.PNG)](https://www.youtube.com/playlist?list=PL9bD98LkBR7PlSUOf_sbqr235NgrxMnJP)
 
-**Timestamps:**
+## What we will learn
+- Importance of Basic HTML CSS & JS.
+- Create Project Directory
+- Create Navigation Bar
+- Create Home Section
+- Create Feature Section
+- Create Popular Courses Section
+- Create Registration Form
+- Create Profile Section
+- Create Footer Section
+- Website Debugging
+- Make Responsive Website For Tablet
+- Make Responsive Website For Mobile
 
-0:00 Introduction
+# Sections
+- Home Page
+- About Page
+- Blog Page
+- Single Post
+- Course Page
+- Single Course
+- Contact Page
 
-4:25 Responsive Website Preview
+Here you will find all the images I'm using to create this responsive lms website. In future, image folder can update.
 
-7:02 Importance of This Tutorial
+Get the full source code from [here1](https://www.buymeacoffee.com/tech2etc/e/42638).
 
-8:13 Create Project Directory
-
-9:18 Create Navigation Bar
-
-17:27 Create Home Section
-
-28:55 Create Feature Section
-
-39:13 Create Popular Courses Section
-
-51:08 Create Registration Form
-
-1:06:56 Create Profile Section
-
-1:14:47 Create Footer Section
-
-1:27:13 Check Website and Fix
-
-1:29:55 Make Responsive Website For Tablet
-
-1:49:48 Make Responsive Website For Mobile
+Get the full source code from [here2](https://ko-fi.com/s/9c53d5b08b).
