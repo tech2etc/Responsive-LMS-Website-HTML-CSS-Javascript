@@ -1,4 +1,4 @@
-# How-to-Make-a-Responsive-LMS/Edu-Website-HTML-CSS-Javascript
+# Create-Responsive-LMS/Edu-Website-HTML-CSS-Javascript
 
 Learn How To Make A Complete LMS Website Using HTML, CSS and JavaScript. If you are a beginner and want to make a responsive Complete HTML and CSS Multiple Pages Website Design Step by Step.
 
